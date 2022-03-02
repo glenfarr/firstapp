@@ -1,0 +1,9 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(223, 220, 217);
+}
+
+.wrapper {
+    margin: 10% 20%;
+}
